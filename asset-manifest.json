@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bgmi-ytlist/static/css/main.c3d12c09.css",
+    "main.js": "/bgmi-ytlist/static/js/main.3a374208.js",
+    "static/js/787.8ad51fc1.chunk.js": "/bgmi-ytlist/static/js/787.8ad51fc1.chunk.js",
+    "index.html": "/bgmi-ytlist/index.html",
+    "main.c3d12c09.css.map": "/bgmi-ytlist/static/css/main.c3d12c09.css.map",
+    "main.3a374208.js.map": "/bgmi-ytlist/static/js/main.3a374208.js.map",
+    "787.8ad51fc1.chunk.js.map": "/bgmi-ytlist/static/js/787.8ad51fc1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3d12c09.css",
+    "static/js/main.3a374208.js"
+  ]
+}
